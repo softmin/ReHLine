@@ -10,6 +10,8 @@ The **ReHLine** solver has four appealing
 - The optimization algorithm has a provable linear convergence rate.
 - The per-iteration computational complexity is linear in the sample size.
 
+Additional information can be located on the homepage of Rehline ([https://rehline.github.io/](https://rehline.github.io/)).
+
 ## 📝 Formulation
 
 **ReHLine** is designed to address the empirical regularized ReLU-ReHU minimization problem, named *ReHLine optimization*, of the following form:
