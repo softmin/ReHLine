@@ -59,3 +59,7 @@ benchmark code and results at the
 |[FairSVM](https://github.com/softmin/ReHLine-benchmark/tree/main/benchmark_FairSVM) | [Result](https://rehline-python.readthedocs.io/en/latest/_static/benchmark/benchmark_FairSVM.html)|
 |[ElasticQR](https://github.com/softmin/ReHLine-benchmark/tree/main/benchmark_QR) | [Result](https://rehline-python.readthedocs.io/en/latest/_static/benchmark/benchmark_QR.html)|
 |[RidgeHuber](https://github.com/softmin/ReHLine-benchmark/tree/main/benchmark_Huber) | [Result](https://rehline-python.readthedocs.io/en/latest/_static/benchmark/benchmark_Huber.html)|
+
+## ⚖️ License
+
+**ReHLine** is open source under the MIT license.
