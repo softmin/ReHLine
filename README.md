@@ -102,13 +102,6 @@ All benchmarks are reproducible via [benchopt](https://github.com/benchopt/bench
 | Quantile Regression | [Code](https://github.com/softmin/ReHLine-benchmark/tree/main/benchmark_QR) | [📊 View](https://rehline-python.readthedocs.io/en/latest/_static/benchmark/benchmark_QR.html) |
 | Huber Regression | [Code](https://github.com/softmin/ReHLine-benchmark/tree/main/benchmark_Huber) | [📊 View](https://rehline-python.readthedocs.io/en/latest/_static/benchmark/benchmark_Huber.html) |
 
-
-## 🎓 Learn More
-
-- 🏠 **Project Homepage**: [https://rehline.github.io](https://rehline.github.io)
-- 📄 **Research Paper**: [NeurIPS 2023](https://openreview.net/pdf?id=3pEBW2UPAD)
-
-
 ## 📚 Citation
 
 If you use ReHLine in your research, please cite our NeurIPS 2023 paper:
@@ -122,3 +115,27 @@ If you use ReHLine in your research, please cite our NeurIPS 2023 paper:
 }
 ```
 
+## 🔗 ReHLine Ecosystem
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 Core Projects
+- **[ReHLine](https://github.com/softmin/ReHLine)** - Main repository and documentation
+- **[ReHLine-python](https://github.com/softmin/ReHLine-python)** - Python interface (this repo)
+- **[ReHLine-r](https://github.com/softmin/ReHLine-r)** - R interface
+- **[ReHLine-cpp](https://github.com/softmin/ReHLine-cpp)** - High-performance C++ core
+
+</td>
+<td width="50%">
+
+### 📊 Resources
+- **[ReHLine-benchmark](https://github.com/softmin/ReHLine-benchmark)** - Reproducible benchmarks
+- **[Project Homepage](https://rehline.github.io)** - Official website
+- **[Documentation](https://rehline-python.readthedocs.io)** - Full Python docs
+- **[NeurIPS 2023 Paper](https://openreview.net/pdf?id=3pEBW2UPAD)** - Research paper
+
+</td>
+</tr>
+</table>
